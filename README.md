@@ -18,6 +18,7 @@ Starter template for building modern React applications using **TypeScript**, **
 ## 📁 Project Structure
 src/
 ├── assets/ # Images, icons, fonts
+
 ├── components/ # Reusable components
 ├── pages/ # Application pages
 ├── routes/ # App routes
@@ -36,10 +37,10 @@ npm run lint      # Run ESLint
 npm run format    # Format code with Prettier
 
 ## 🧩 Tech Stack
--React
--TypeScript
--Vite
--Material UI
--React Router
--Axios
--ESLint & Prettier
+- React
+- TypeScript
+- Vite
+- Material UI
+- React Router
+- Axios
+- ESLint & Prettier
